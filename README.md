@@ -25,6 +25,7 @@ Themes list
 * Solarized (Light)
 * SpaceCadet
 * Sunburst
+* Super
 * Zenburnesque
 * Django
 * iPlastic
@@ -33,7 +34,7 @@ Installation for Mac OS X
 -------------------------
 
 ```
-$ git clone git://github.com/d1ffuz0r/pycharm-themes.git
+$ git clone git://github.com/vartagg/pycharm-themes.git
 $ cd pycharm-themes/colors
 $ cp *.icls ~/Library/Preferences/PyCharm30/colors
 ```
@@ -43,7 +44,7 @@ Installation for Linux
 
 ```
 
-$ git clone git://github.com/d1ffuz0r/pycharm-themes.git
+$ git clone git://github.com/vartagg/pycharm-themes.git
 $ cd pycharm-themes/colors
 $ cp *.icls ~/.PyCharm30/config/colors/
 ```
